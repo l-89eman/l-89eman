@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Iman Arshad 👋</h1>
-<h3 align="center">A passionate developer with expertise in AI 🤖, Web Design 🎨, and Data Analysis 📊</h3>
+<h3 align="center">A passionate developer with expertise in Web Applications 🤖, Web Design 🎨, and Data Analysis 📊</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=l-89eman&label=Profile%20views&color=0e75b6&style=flat" alt="l-89eman" />
@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 Currently working on **cutting-edge AI projects** and **web development solutions**.
-- 🌱 Continuously learning **machine learning** and **data science**.
+- 🔭 Currently working on **Frontend Projects** and **Problem solving**.
+- 🌱 Continuously learning **Ruby on Rails** and **Wordpress**.
 - 👯 Looking to collaborate on **open-source projects** and **exciting coding challenges**.
-- 📫 Reach me at [iman@example.com](mailto:iman@example.com).
-- 💬 Ask me about **JavaScript, Python, AI, and Web Development**.
+- 📫 Reach me at [emanarshad233@gmail.com](mailto:emanarshad233@gmail.com).
+- 💬 Ask me about **JavaScript, C++ and Web Development**.
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" width="500"/>
@@ -20,12 +20,13 @@
 
 ---
 
+
 ### 🕰️ Professional Timeline:
 | Year       | Achievement                        |
 |------------|------------------------------------|
-| **2024**   | Started contributing to open source projects in AI and data science |
-| **2023**   | Built my first full-stack web application |
-| **2022**   | Started learning JavaScript, Python, and web development |
+| **2024**   | Started learning Ruby on Rails and Wordpress |
+| **2023**   | Started learning HTML,CSS and  web development |
+| **2022**   | Started learning JavaScript and C++ |
 | **2021**   | Discovered my passion for coding and technology |
 
 ---
@@ -65,10 +66,10 @@
 
 ### 🔗 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">
+  <a href="https://www.linkedin.com/in/iman-arshad-05b612333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:iman@example.com">
+  <a href="mailto:emanarshad233@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- Add other social profiles if needed -->
@@ -78,6 +79,4 @@
 
 ### 🎉 Fun Fact:
 - 🌟 Driven by a passion to create technology that makes a real difference in people’s lives!
-
----
 
