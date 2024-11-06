@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Iman Arshad 👋</h1>
-<h3 align="center">A passionate developer with expertise in Web Applications 🤖, Web Design 🎨, and Data Analysis 📊</h3>
+<h3 align="center">A passionate developer with expertise in Web Applications 🤖, Web Design 🎨, and Problem Solving 📊</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=l-89eman&label=Profile%20views&color=0e75b6&style=flat" alt="l-89eman" />
@@ -33,16 +33,23 @@
 
 ### 💻 Tech Stack:
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+ 
+<!-- Ruby on Rails Badge as an image -->
+<a href="https://rubyonrails.org/">
+  <img src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+</a>
+
+<!-- WordPress Badge as an image -->
+<a href="https://wordpress.org/">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</a>
+
+
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
