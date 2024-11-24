@@ -9,7 +9,7 @@
 
 ### 🚀 About Me:
 - 🔭 Currently working on **Frontend Projects** and **Problem solving**.
-- 🌱 Continuously learning **Ruby on Rails** and **Wordpress**.
+- 🌱 Continuously learning **Ruby on Rails**.
 - 👯 Looking to collaborate on **open-source projects** and **exciting coding challenges**.
 - 📫 Reach me at [emanarshad233@gmail.com](mailto:emanarshad233@gmail.com).
 - 💬 Ask me about **JavaScript, C++ and Web Development**.
@@ -37,11 +37,6 @@
 <!-- Ruby on Rails Badge as an image -->
 <a href="https://rubyonrails.org/">
   <img src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
-</a>
-
-<!-- WordPress Badge as an image -->
-<a href="https://wordpress.org/">
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </a>
 
 
